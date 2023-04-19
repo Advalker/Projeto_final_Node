@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "643f41d70cd3f48270bef0e3"
+  },
+  "name": "carro",
+  "brand": "Ford",
+  "cod": "02",
+  "createAt": "Tue Apr 18 2023 22:20:09 GMT-0300 (Horário Padrão de Brasília)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f452a466f424b4e91727a"
+  },
+  "name": "carro",
+  "brand": "Fiat",
+  "cod": "03",
+  "createAt": "Tue Apr 18 2023 22:32:31 GMT-0300 (Horário Padrão de Brasília)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f46085f64aa688a63eca5"
+  },
+  "name": "carro",
+  "brand": "Honda",
+  "cod": "01",
+  "createAt": "Tue Apr 18 2023 22:37:10 GMT-0300 (Horário Padrão de Brasília)",
+  "__v": 0
+}]

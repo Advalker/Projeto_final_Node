@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "643f34f28444429817a5ae7c"
+  },
+  "name": "josé",
+  "email": "jose@.com",
+  "document": "07753478513",
+  "password": "$2b$10$dAtBzNIjTjHUPu0zMn1lP.fjcFr510fZho2gElJqcjOmBtxlU60d.",
+  "age": 20,
+  "createdAt": {
+    "$date": "2023-04-19T00:25:12.412Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f3c4894001f6eefff4a06"
+  },
+  "name": "Roberta",
+  "email": "roberte@.com",
+  "document": "99345578596",
+  "password": "8081",
+  "age": 50,
+  "createdAt": {
+    "$date": "2023-04-19T00:49:34.982Z"
+  },
+  "__v": 0
+}]
